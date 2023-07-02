@@ -1,0 +1,71 @@
+<!DCTYPE html>
+<html>
+  <h2>Create Your Account!</h2>
+</html>
+<!DOCTYPE html>
+<html>
+<body>
+<form action="">
+<input type="radio" name="sex" value="male">Male<br>
+<input type="radio" name="sex" value="female">Female
+</form>
+
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="">
+<fieldset>
+<legend>Information:</legend>
+Name: <input type="text" size="30"><br>
+E-mail: <input type="text" size="30"><br>
+Age: <input type="text" size="10">
+</fieldset>
+</form>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Favorite Color</h2>
+<form action="">
+<select name="cars">
+<option value="volvo">Red</option>
+<option value="saab">Blue</option>
+<option value="fiat" selected>Yello</option>
+<option value="audi">Other...</option>
+</select>
+</form>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<body>
+<form action="">
+Create A Username: <input type="text" name="user"><br>
+Create A Password: <input type="password" name="password">
+</form>
+
+
+</body>
+</html>
+
+<html>
+  <h2>Rules:</h2>
+  <p>No Threatening or being Mean</p>
+  <p>Have Fun!!!</p>
+</html>
+<!DOCTYPE html>
+<html>
+<body>
+<form action="">
+<input type="checkbox" name="create" value="create">Create<br>
+</form>
+
+</body>
+</html>
