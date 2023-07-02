@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Website</title>
+  </head>
+  <body>
+    <h2 style="color:#FF0000";>Hello and welcome to my website!</h2>
+    <p>Please fill out this information!</p>
+  </body>
+  <form action="">
+<fieldset>
+<legend>Information:</legend>
+Name: <input type="text" size="30"><br>
+Hieght: <input type="text" size="30"><br>
+Weight <input type="text" size="30"><br>
+Fave Food: <input type="text" size="30"><br>
+</fieldset>
+</form>
+</html>
